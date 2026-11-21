@@ -85,7 +85,7 @@ final konkenConfig = GameConfig(
       'Dalawang deck, labintatlong baraha, magbukas sa 51!',
     ],
   seedColor: const Color(0xFF5E4B8B),
-  icon: Icons.stacks,
+  icon: Icons.view_stream,
   rules: konkenRules,
   buildPlay: (ctx) => TableView(ctx: ctx),
   tutorial: const [
